@@ -53,6 +53,10 @@ The simulation results were verified using the testbench and waveform.
 
 ![ALU Waveform](waveform.png)
 
+## EDA Playground 
+[Open the ALU simulation on EDA Playground ]
+(https://edaplayground.com/x/6c7S)
+
 ## Project Files
 
 - `design.sv` — 4-bit ALU design
